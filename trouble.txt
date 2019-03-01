@@ -1,0 +1,26 @@
+Escriba un programa que imprima los números del 1 al 20.
+Pero para múltiplos de tres, imprima “Fizz” en lugar del
+número y para los múltiplos de cinco imprima “Buzz”. Para
+los números que son múltiplos de tres y cinco, imprima
+“FizzBuzz”.
+Respuesta esperada:
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
